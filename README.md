@@ -7,7 +7,7 @@ Predict which passengers were transported to alternate dimension.
 - EDA → Data Cleaning → Feature Engineering → Random Forest → XGBoost
 
 ## Result
-Accuracy: 80% (your score here)
+Accuracy: 80% 
 
 ## What I Learned
 - Handling missing values
